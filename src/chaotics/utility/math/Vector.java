@@ -17,7 +17,7 @@ public class Vector {
     }
 
     public void set(double[] newVectorArray) {
-        vectorArray = newVectorArray;
+       // vectorArray = newVectorArray;
         dim = vectorArray.length;
     }
 }
